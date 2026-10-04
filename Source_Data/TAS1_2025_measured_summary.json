@@ -1,0 +1,13 @@
+{
+  "region": "TAS1",
+  "mustrun": 0.0,
+  "full_days": 364,
+  "CC_annual_costweighted": 0.45,
+  "eta_annual": 0.9955,
+  "CC_daily_median": 0.28,
+  "neg_freq_annual": 3.8,
+  "ren_share_annual": 19.41,
+  "total_curtailment_GWh": 8.6,
+  "corr_CC_renshare": 0.21,
+  "corr_CC_negprice": 0.039
+}

@@ -1,0 +1,67 @@
+{
+  "SA1": {
+    "energy_only": 37.8,
+    "mustrun50": 23.0,
+    "r": 0.55,
+    "imports_pct_of_demand": 43.2,
+    "groups": [
+      "Distillate",
+      "Gas (Steam)",
+      "Gas (CCGT)",
+      "Gas (OCGT)",
+      "Gas (Reciprocating)"
+    ]
+  },
+  "VIC1": {
+    "energy_only": 35.2,
+    "mustrun50": 23.7,
+    "r": 0.25,
+    "imports_pct_of_demand": 29.4,
+    "groups": [
+      "Gas (Steam)",
+      "Gas (OCGT)",
+      "Coal (Brown)",
+      "Hydro"
+    ]
+  },
+  "NSW1": {
+    "energy_only": 26.6,
+    "mustrun50": 20.7,
+    "r": 0.21,
+    "imports_pct_of_demand": 21.2,
+    "groups": [
+      "Distillate",
+      "Gas (CCGT)",
+      "Gas (OCGT)",
+      "Coal (Black)",
+      "Hydro",
+      "Bioenergy"
+    ]
+  },
+  "QLD1": {
+    "energy_only": 16.6,
+    "mustrun50": 11.8,
+    "r": 0.28,
+    "imports_pct_of_demand": 28.6,
+    "groups": [
+      "Distillate",
+      "Gas (CCGT)",
+      "Gas (OCGT)",
+      "Gas (Reciprocating)",
+      "Coal (Black)",
+      "Hydro",
+      "Bioenergy"
+    ]
+  },
+  "TAS1": {
+    "energy_only": 12.6,
+    "mustrun50": 6.0,
+    "r": -0.29,
+    "imports_pct_of_demand": 22.7,
+    "groups": [
+      "Gas (CCGT)",
+      "Gas (OCGT)",
+      "Hydro"
+    ]
+  }
+}

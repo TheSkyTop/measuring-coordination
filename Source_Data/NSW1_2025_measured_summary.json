@@ -1,0 +1,13 @@
+{
+  "region": "NSW1",
+  "mustrun": 0.0,
+  "full_days": 364,
+  "CC_annual_costweighted": 9.05,
+  "eta_annual": 0.917,
+  "CC_daily_median": 8.34,
+  "neg_freq_annual": 12.45,
+  "ren_share_annual": 25.32,
+  "total_curtailment_GWh": 1832.1,
+  "corr_CC_renshare": 0.228,
+  "corr_CC_negprice": 0.4
+}

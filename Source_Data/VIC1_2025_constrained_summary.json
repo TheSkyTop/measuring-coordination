@@ -1,0 +1,13 @@
+{
+  "region": "VIC1",
+  "mustrun": 0.5,
+  "full_days": 364,
+  "CC_annual_costweighted": 12.49,
+  "eta_annual": 0.889,
+  "CC_daily_median": 11.89,
+  "neg_freq_annual": 23.6,
+  "ren_share_annual": 31.5,
+  "total_curtailment_GWh": 2476.4,
+  "corr_CC_renshare": 0.527,
+  "corr_CC_negprice": 0.687
+}

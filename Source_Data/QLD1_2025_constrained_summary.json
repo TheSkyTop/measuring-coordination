@@ -1,0 +1,13 @@
+{
+  "region": "QLD1",
+  "mustrun": 0.5,
+  "full_days": 364,
+  "CC_annual_costweighted": 5.3,
+  "eta_annual": 0.9496,
+  "CC_daily_median": 4.47,
+  "neg_freq_annual": 18.58,
+  "ren_share_annual": 18.49,
+  "total_curtailment_GWh": 1403.8,
+  "corr_CC_renshare": 0.106,
+  "corr_CC_negprice": 0.57
+}

@@ -1,0 +1,13 @@
+{
+  "region": "SA1",
+  "mustrun": 0.0,
+  "full_days": 329,
+  "CC_annual_costweighted": 37.82,
+  "eta_annual": 0.7256,
+  "CC_daily_median": 45.35,
+  "neg_freq_annual": 25.22,
+  "ren_share_annual": 59.8,
+  "total_curtailment_GWh": 1247.0,
+  "corr_CC_renshare": 0.569,
+  "corr_CC_negprice": 0.603
+}

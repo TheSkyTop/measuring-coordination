@@ -1,0 +1,27 @@
+{
+  "SA1": {
+    "energy_only": 37.8,
+    "mustrun50": 23.0,
+    "mustrun75": 13.2
+  },
+  "VIC1": {
+    "energy_only": 190.1,
+    "mustrun50": 61.7,
+    "mustrun75": 26.2
+  },
+  "NSW1": {
+    "energy_only": 256.8,
+    "mustrun50": 63.5,
+    "mustrun75": 25.4
+  },
+  "QLD1": {
+    "energy_only": 114.8,
+    "mustrun50": 51.1,
+    "mustrun75": 23.0
+  },
+  "TAS1": {
+    "energy_only": 12.6,
+    "mustrun50": 6.0,
+    "mustrun75": 2.9
+  }
+}
